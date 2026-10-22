@@ -10,7 +10,7 @@
 # 👨🏻‍💻 Lucca Xavier
 **`FullStack Developer`**
 
-[![Badge](https://img.shields.io/badge/GitHub-Lucca-Xavier-black?style=plastic&logo=github)](https://github.com/Lucca-Xavier)
+[![Badge](https://img.shields.io/badge/GitHub-Lucca--Xavier-black?style=plastic&logo=github)](https://github.com/Lucca-Xavier)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucca-xavier-bb0a462b2/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel)](https://lucca-xavier.vercel.app)
 [![Email](https://img.shields.io/badge/EMAIL-1a1a1a?style=flat-square&logo=gmail)](mailto:luccacxavier@gmail.com)
