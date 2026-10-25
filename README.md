@@ -82,3 +82,10 @@ public class Lucca {
   <img alt="Tocando agora" width="250" src="https://spotify-github-profile.kittinanx.com/api/view?uid=f7w2dm9k38calfisvq3al0np5&cover_image=true&theme=default&show_offline=false&background_color=0A0F1F&bar_color=0066FF&bar_color_cover=false&interchange=false" />
   <img alt="Tocadas recentemente" width="275" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=f7w2dm9k38calfisvq3al0np5&count=10&width=540&radius=10&unique=1&duration=1&album=1&footer=wave&bg_color=0A0F1F" />
 </p>
+
+-----
+## 🎮 Time Pokémon
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" height="64" alt="Mudkip" />
+</p>
