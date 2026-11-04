@@ -1,12 +1,4 @@
 
------
-
-<div>
-<img align="center" alt="Header" src=""/>
-</div>
-
------
-
 # 👨🏻‍💻 Lucca Xavier
 **`FullStack Developer`**
 
@@ -88,4 +80,5 @@ public class Lucca {
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" height="64" alt="Mudkip" />
+    Em breve...
 </p>
